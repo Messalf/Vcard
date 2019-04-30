@@ -1,0 +1,21 @@
+.container {
+    width: 450px;
+    height: 650px;
+    border: 50px;
+    border-color: black;
+    margin: auto;
+    background: linear-gradient(60deg, rgba(251,180,103,0.8) 0%, rgba(148,187,233,0.8) 100%), url("image/circuit.png") no-repeat;
+    border-radius: 20px;
+    background-size: cover;
+    border: white solid 5px;
+    
+}
+
+body {
+    background: url("image/circuit.png") no-repeat;
+    background-size:cover;
+    padding-top: 90px;
+    overflow:hidden;
+
+}
+
